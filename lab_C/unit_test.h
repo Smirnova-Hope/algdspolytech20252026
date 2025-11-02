@@ -1,5 +1,4 @@
 #pragma once
-#ifndef UNIT_TEST_H
 #define UNIT_TEST_H
 
 #include "graph.h"
@@ -21,5 +20,3 @@ void test_large_graph_no9();
 void test_weighted_graph_binary_no10();
 void test_extra_spaces_no11();
 void test_empty_lines_no12();
-
-#endif
