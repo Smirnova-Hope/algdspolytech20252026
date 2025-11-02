@@ -5,7 +5,7 @@
 
 #pragma warning(disable : 4996)
 
-// Глобальные переменные (лучше их убрать или сделать static)
+
 int matrix_list[MAX_VERTICES][MAX_VERTICES];
 int matrix[MAX_VERTICES][MAX_VERTICES];
 
